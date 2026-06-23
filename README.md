@@ -1,4 +1,6 @@
-
+permissions:
+  contents: write
+  
 <div align="center">
 
 <img src="floating-name.svg" alt="floating name"/>
@@ -75,9 +77,9 @@ class Me:
 
 <div align="center">
 
-<!-- one-time setup → https://github.com/Platane/snk -->
-<!-- uncomment after setup: -->
-<!-- <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/its-Tiktiki/its-Tiktiki/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 </div>
 
@@ -89,10 +91,6 @@ class Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0e1a?style=for-the-badge&logo=linkedin&logoColor=7c6ee0)](https://linkedin.com/in/aronno-rahman-699117419)
 [![Email](https://img.shields.io/badge/Email-0e0e1a?style=for-the-badge&logo=gmail&logoColor=7c6ee0)](mailto:aronnorahman2006@gmail.com)
-
-<br/>
-
-![visitor badge](https://komarev.com/ghpvc/?username=yourusername&color=7c6ee0&style=flat-square&label=profile+views)
 
 </div>
 
