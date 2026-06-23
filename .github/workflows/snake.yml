@@ -16,13 +16,16 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: its-Tiktiki
+
+          # 👇 OUTPUT FILES
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-          # 👇 purple theme settings
+          # 💜 CHANGE COLORS HERE
           color_snake: "#a855f7"
-          color_dots: "#2e1065,#4c1d95,#6d28d9,#a855f7"
+          color_dots: |
+            #0e0e1a,#1a0b2e,#2a0a3d,#3b0a55,#5b21b6,#a855f7
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
