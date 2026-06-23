@@ -18,20 +18,25 @@
 
 </div>
 
----
+<br/>
 
 ### 👾 &nbsp;`me.py`
 
+<br/>
+
 ```python
 class Me:
-    name       = "Aronno Rahman Arpa"
+    name       = "Tiktiki"
     role       = "student & aspiring data scientist"
     stack      = ["Python", "Flask", "SQL", "HTML/CSS", "Selenium", "REST APIs"]
     learning   = ["C++ DSA", "Machine Learning", "Data Science"]
     currently  = "cracking DSA + building with data 🔬"
     fun_fact   = "my bugs have bugs "
 ```
+<br/>
 ### 🛠️ &nbsp;skills
+<br/>
+<br/>
 
 | &nbsp; | Skill | What I use it for |
 |--------|-------|-------------------|
@@ -41,19 +46,26 @@ class Me:
 | 🌐 | HTML / CSS | frontend fundamentals |
 | 🤖 | Selenium | web automation & scraping |
 | 🔗 | REST APIs | requests, JSON, integrations |
+| ☕ | Java | basics, OOP, practice projects |
+| ⚙️ | C | Core programming concepts |
 | ⚡ | C++ DSA | algorithms, data structures |
 | 🌿 | Git & GitHub | version control, project hosting |
 
----
 
+<br/>
 ### 🔭 &nbsp;currently
+<br/>
+<br/>
 
 - ⚡ &nbsp;cracking **C++ DSA** — arrays, recursion, trees, graphs
 - 📈 &nbsp;exploring **Data Science** — numpy, pandas, matplotlib
 - 🌶️ &nbsp;building **Flask + SQLite** apps
 
----
+
+<br/>
 ### 📈 &nbsp;github stats
+<br/>
+<br/>
 
 <div align="center">
 
@@ -67,9 +79,12 @@ class Me:
 <img src="https://github-readme-streak-stats.herokuapp.com?user=its-Tiktiki&theme=tokyonight&hide_border=true&background=080810&ring=7c6ee0&fire=9d91f0&currStreakLabel=8888aa&sideLabels=8888aa"/>
 
 </div>
----
 
+
+<br/>
 ### 🐍 &nbsp;contribution snake
+<br/>
+<br/>
 
 <div align="center">
 
@@ -79,9 +94,11 @@ class Me:
 
 </div>
 
----
 
+<br/>
 ### 📬 &nbsp;connect
+<br/>
+
 
 <div align="center">
 
@@ -90,4 +107,5 @@ class Me:
 
 </div>
 
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c6ee0&height=100&section=footer" width="100%"/>
