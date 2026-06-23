@@ -56,21 +56,20 @@ class Me:
 - 🌶️ &nbsp;building **Flask + SQLite** apps
 
 ---
-
 ### 📈 &nbsp;github stats
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080810&title_color=7c6ee0&icon_color=7c6ee0&text_color=8888aa&ring_color=7c6ee0"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=its-Tiktiki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080810&title_color=7c6ee0&icon_color=7c6ee0&text_color=8888aa&ring_color=7c6ee0"/>
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=080810&title_color=7c6ee0&text_color=8888aa"/>
+
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-Tiktiki&layout=compact&theme=tokyonight&hide_border=true&bg_color=080810&title_color=7c6ee0&text_color=8888aa"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&background=080810&ring=7c6ee0&fire=9d91f0&currStreakLabel=8888aa&sideLabels=8888aa"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=its-Tiktiki&theme=tokyonight&hide_border=true&background=080810&ring=7c6ee0&fire=9d91f0&currStreakLabel=8888aa&sideLabels=8888aa"/>
 
 </div>
-
 ---
 
 ### 🐍 &nbsp;contribution snake
