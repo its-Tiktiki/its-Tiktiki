@@ -13,14 +13,16 @@
 ![](https://img.shields.io/badge/-HTML%2FCSS-0e0e1a?style=flat-square&logo=html5&logoColor=7c6ee0)
 ![](https://img.shields.io/badge/-Selenium-0e0e1a?style=flat-square&logo=selenium&logoColor=7c6ee0)
 ![](https://img.shields.io/badge/-REST%20APIs-0e0e1a?style=flat-square&logo=fastapi&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-C-0e0e1a?style=flat-square&logo=c&logoColor=7c6ee0)
 ![](https://img.shields.io/badge/-C++-0e0e1a?style=flat-square&logo=cplusplus&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-Java-0e0e1a?style=flat-square&logo=java&logoColor=7c6ee0)
 ![](https://img.shields.io/badge/-Git-0e0e1a?style=flat-square&logo=git&logoColor=7c6ee0)
 
 </div>
 
 <br/>
 
-### 👾 &nbsp;`me.py`
+👾 &nbsp;`me.py`
 
 <br/>
 
@@ -34,7 +36,7 @@ class Me:
     fun_fact   = "my bugs have bugs "
 ```
 <br/>
-### 🛠️ &nbsp;skills
+🛠️ &nbsp;skills
 <br/>
 <br/>
 
@@ -53,7 +55,7 @@ class Me:
 
 
 <br/>
-### 🔭 &nbsp;currently
+🔭 &nbsp;currently
 <br/>
 <br/>
 
@@ -63,26 +65,23 @@ class Me:
 
 
 <br/>
-### 📈 &nbsp;github stats
+📈 &nbsp;github stats
 <br/>
 <br/>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=its-Tiktiki&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-Tiktiki&layout=donut&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a855f7" height="170"/>
+</p>
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=its-Tiktiki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080810&title_color=7c6ee0&icon_color=7c6ee0&text_color=8888aa&ring_color=7c6ee0"/>
-&nbsp;
-
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-Tiktiki&layout=compact&theme=tokyonight&hide_border=true&bg_color=080810&title_color=7c6ee0&text_color=8888aa"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=its-Tiktiki&theme=tokyonight&hide_border=true&background=080810&ring=7c6ee0&fire=9d91f0&currStreakLabel=8888aa&sideLabels=8888aa"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=its-Tiktiki&theme=transparent&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" height="170"/>
+</p>
 
 
 <br/>
-### 🐍 &nbsp;contribution snake
+🐍 &nbsp;contribution snake
 <br/>
 <br/>
 
@@ -96,7 +95,7 @@ class Me:
 
 
 <br/>
-### 📬 &nbsp;connect
+📬 &nbsp;connect
 <br/>
 
 
