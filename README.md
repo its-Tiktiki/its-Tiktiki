@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./gif2.gif" width="850" alt="Coding Room"/>
+</p>
+
 <div align="center">
 
 <img src="floating-name.svg" alt="floating name"/>
