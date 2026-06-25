@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gif2.gif" width="850" alt="Coding Room"/>
+  <img src="./Coding World.jpg" width="850" alt="Coding Room"/>
 </p>
 
 <div align="center">
