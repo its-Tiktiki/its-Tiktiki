@@ -1,4 +1,4 @@
-<img width="100%" height=100 src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7c6ee0,100:a855f7&section=header&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7c6ee0,100:a855f7&section=header&animation=twinkling"/>
 <div align="center">
 
 <img src="floating-name.svg" alt="floating name"/>
