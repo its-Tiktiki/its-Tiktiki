@@ -1,4 +1,12 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7c6ee0,100:a855f7&section=header&animation=twinkling"/>
+<div align="center">
 
+<img src="floating-name.svg" alt="floating name"/>
+
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=7C6EE0&center=true&vCenter=true&width=560&lines=student+%7C+aspiring+data+scientist;python+%C2%B7+flask+%C2%B7+sql;cracking+C%2B%2B+DSA+%E2%9A%A1;building+Flask+%2B+SQLite+app" alt="typing"/>
+
+<br/>
 
 ![](https://img.shields.io/badge/-Python-0e0e1a?style=flat-square&logo=python&logoColor=7c6ee0)
 ![](https://img.shields.io/badge/-Flask-0e0e1a?style=flat-square&logo=flask&logoColor=7c6ee0)
