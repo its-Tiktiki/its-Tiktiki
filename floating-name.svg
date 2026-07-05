@@ -5,23 +5,6 @@
       <stop offset="45%" stop-color="#5a4fb8"/>
       <stop offset="100%" stop-color="#a855f7"/>
     </linearGradient>
-
-    <style>
-      @keyframes floatUpDown {
-        0%   { transform: translateY(0px); }
-        50%  { transform: translateY(-10px); }
-        100% { transform: translateY(0px); }
-      }
-      #title-group {
-        animation: floatUpDown 3.2s ease-in-out infinite;
-        transform-origin: center;
-      }
-      #subtitle-group {
-        animation: floatUpDown 3.2s ease-in-out infinite;
-        animation-delay: 0.35s;
-        transform-origin: center;
-      }
-    </style>
   </defs>
 
   <rect x="0" y="0" width="900" height="220" fill="#0e0e1a"/>
@@ -32,13 +15,19 @@
     <text x="450" y="105" text-anchor="middle"
           font-family="Segoe UI, Helvetica, Arial, sans-serif"
           font-weight="800" font-size="52" fill="#ffffff"
-          letter-spacing="2">TIKTIKI</text>
+          letter-spacing="2">TIKTIKI
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 0 -10; 0 0" dur="3.2s" repeatCount="indefinite"/>
+    </text>
   </g>
 
   <g id="subtitle-group">
     <text x="450" y="145" text-anchor="middle"
           font-family="Segoe UI, Helvetica, Arial, sans-serif"
           font-weight="600" font-size="17" fill="#f1edff"
-          letter-spacing="1">Student · Aspiring Data Scientist · Builder</text>
+          letter-spacing="1">Student · Aspiring Data Scientist · Builder
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 0 -10; 0 0" dur="3.2s" begin="0.35s" repeatCount="indefinite"/>
+    </text>
   </g>
 </svg>
