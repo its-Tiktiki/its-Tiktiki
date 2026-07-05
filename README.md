@@ -1,111 +1,124 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7c6ee0,100:a855f7&section=header&animation=twinkling"/>
 <div align="center">
 
-<img src="floating-name.svg" alt="floating name"/>
-
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=7C6EE0&center=true&vCenter=true&width=560&lines=student+%7C+aspiring+data+scientist;python+%C2%B7+flask+%C2%B7+sql;cracking+C%2B%2B+DSA+%E2%9A%A1;building+Flask+%2B+SQLite+app" alt="typing"/>
+<img src="floating-name.svg" width="100%" alt="Tiktiki"/>
 
 <br/>
 
-![](https://img.shields.io/badge/-Python-0e0e1a?style=flat-square&logo=python&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-Flask-0e0e1a?style=flat-square&logo=flask&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-SQL-0e0e1a?style=flat-square&logo=postgresql&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-HTML%2FCSS-0e0e1a?style=flat-square&logo=html5&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-Selenium-0e0e1a?style=flat-square&logo=selenium&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-REST%20APIs-0e0e1a?style=flat-square&logo=fastapi&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-C-0e0e1a?style=flat-square&logo=c&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-C++-0e0e1a?style=flat-square&logo=cplusplus&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-Java-0e0e1a?style=flat-square&logo=java&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-Git-0e0e1a?style=flat-square&logo=git&logoColor=7c6ee0)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=cracking+C%2B%2B+DSA+one+bug+at+a+time;building+Flask+%2B+SQLite+apps;learning+the+math+behind+machine+learning;turning+%E2%80%9Cit+works%E2%80%9D+into+%E2%80%9Cit+works+well%E2%80%9D"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=its-Tiktiki&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/its-Tiktiki?style=for-the-badge&color=7c6ee0&labelColor=0e0e1a&label=FOLLOWERS"/>
 
 </div>
 
 <br/>
 
-👾 &nbsp;`me.py`
+## about
 
-<br/>
-
-```python
-class Me:
-    name       = "Tiktiki"
-    role       = "student & aspiring data scientist"
-    stack      = ["Python", "Flask", "SQL", "HTML/CSS", "Selenium", "REST APIs"]
-    learning   = ["C++ DSA", "Machine Learning", "Data Science"]
-    currently  = "cracking DSA + building with data 🔬"
-    fun_fact   = "my bugs have bugs "
 ```
-<br/>
-🛠️ &nbsp;skills
-<br/>
-<br/>
+~/tiktiki$ cat about.md
 
-| &nbsp; | Skill | What I use it for |
-|--------|-------|-------------------|
-| 🐍 | Python | OOP, scripting, problem solving |
-| 🌶️ | Flask | basic web backends |
-| 🗄️ | SQL & SQLite | queries, CRUD, small projects |
-| 🌐 | HTML / CSS | frontend fundamentals |
-| 🤖 | Selenium | web automation & scraping |
-| 🔗 | REST APIs | requests, JSON, integrations |
-| ☕ | Java | basics, OOP, practice projects |
-| ⚙️ | C | Core programming concepts |
-| ⚡ | C++ DSA | algorithms, data structures |
-| 🌿 | Git & GitHub | version control, project hosting |
+  Student and self-taught builder, currently deep in two things at once:
+  the fundamentals (C++ DSA, algorithms, how computers actually think)
+  and the applied side (Flask, SQL, small full-stack apps that solve a
+  real, if tiny, problem).
 
+  Long-term target: data science. Getting there by building things that
+  produce and consume data, not just reading about it.
+```
 
 <br/>
-🔭 &nbsp;currently
-<br/>
+
+## stack
+
+<table width="100%">
+<tr><td width="140" valign="top"><b>languages</b></td><td>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark" height="42"/>
+
+</td></tr>
+<tr><td valign="top"><b>web & data</b></td><td>
+
+<img src="https://skillicons.dev/icons?i=flask,sqlite,html,css&theme=dark" height="42"/>
+
+</td></tr>
+<tr><td valign="top"><b>tools</b></td><td>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="42"/>
+
+</td></tr>
+<tr><td valign="top"><b>learning now</b></td><td>
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" height="42"/>&nbsp;&nbsp;<sub>+ machine learning fundamentals</sub>
+
+</td></tr>
+</table>
+
 <br/>
 
-- ⚡ &nbsp;cracking **C++ DSA** — arrays, recursion, trees, graphs
-- 📈 &nbsp;exploring **Data Science** — numpy, pandas, matplotlib
-- 🌶️ &nbsp;building **Flask + SQLite** apps
+## roadmap
 
-
-<br/>
-📈 &nbsp;github stats
-<br/>
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-Tiktiki&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-Tiktiki&layout=donut&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a855f7" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=its-Tiktiki&theme=transparent&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" height="170"/>
-</p>
-
+```
+  DSA & C++          →   Flask + SQL        →   Data Science
+  ─────────────          ────────────           ────────────
+  arrays, recursion      REST APIs              numpy · pandas
+  trees, graphs          SQLite CRUD            matplotlib
+  [ in progress ]        [ shipping small ]     [ next up ]
+```
 
 <br/>
-🐍 &nbsp;contribution snake
-<br/>
-<br/>
+
+## featured projects
 
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/its-Tiktiki/its-Tiktiki/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<a href="https://github.com/its-Tiktiki?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=its-Tiktiki&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0e0e1a&title_color=a855f7&icon_color=a855f7&text_color=c9c9d9" height="150"/>
+</a>
+<a href="https://github.com/its-Tiktiki?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=its-Tiktiki&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0e0e1a&title_color=a855f7&icon_color=a855f7&text_color=c9c9d9" height="150"/>
+</a>
 
-</div>
-
-
-<br/>
-📬 &nbsp;connect
-<br/>
-
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0e1a?style=for-the-badge&logo=linkedin&logoColor=7c6ee0)](https://linkedin.com/in/aronno-rahman-699117419)
-[![Email](https://img.shields.io/badge/Email-0e0e1a?style=for-the-badge&logo=gmail&logoColor=7c6ee0)](mailto:aronnorahman2006@gmail.com)
+<sub>replace REPO_NAME_1 / REPO_NAME_2 with your actual repos to feature them here</sub>
 
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6ee0&height=100&section=footer" width="100%"/>
+
+## github stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=its-Tiktiki&show_icons=true&theme=radical&hide_border=true&bg_color=0e0e1a&title_color=a855f7&icon_color=a855f7&text_color=c9c9d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=its-Tiktiki&theme=radical&hide_border=true&background=0e0e1a&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-Tiktiki&theme=react-dark&bg_color=0e0e1a&color=a855f7&line=a855f7&point=ffffff&hide_border=true" width="97%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/its-Tiktiki/its-Tiktiki/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br/>
+
+## connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/aronno-rahman-699117419"><img src="https://img.shields.io/badge/LINKEDIN-0e0e1a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7c6ee0"/></a>
+<a href="mailto:aronnorahman2006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0e0e1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=a855f7"/></a>
+
+<br/><br/>
+
+<sub>open to collaborating on small web / data projects — say hi</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:0e0e1a&height=150&section=footer"/>
