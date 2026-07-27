@@ -82,7 +82,7 @@ class Me:
 
 - HackerRank: https://www.hackerrank.com/profile/itzpomodoro79
 - LeetCode: https://leetcode.com/u/piece_of_peace/
-- Toph: https://toph.co/u/itzpomodoro79
+
 
 <br/>
 
