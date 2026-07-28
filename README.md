@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=7C6EE0&center=true&vCenter=true&width=560&lines=student+%7C+aspiring+data+scientist;python+%C2%B7+flask+%C2%B7+sql;cracking+C%2B%2B+DSA;building+Flask+%2B+SQLite+app" alt="typing"/>
 
-<br/>checking if its working 
+<br/>
 
 ![](https://img.shields.io/badge/-Python-0e0e1a?style=flat-square&logo=python&logoColor=7c6ee0)
 ![](https://img.shields.io/badge/-Flask-0e0e1a?style=flat-square&logo=flask&logoColor=7c6ee0)
