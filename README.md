@@ -75,7 +75,7 @@ class Me:
 - Cracking **C++ DSA** — arrays, recursion, trees, graphs
 - Exploring **Data Science** — NumPy, Pandas, Matplotlib
 - Building **Flask + SQLite** apps
-
+- Learning **Java Script**
 <br/>
 
 ## Coding Profiles
