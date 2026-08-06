@@ -83,6 +83,8 @@ class Me:
 - HackerRank: https://www.hackerrank.com/profile/itzpomodoro79
 - LeetCode: https://leetcode.com/u/piece_of_peace/
 - Hackerearth: https://www.hackerearth.com/@itzpomodoro79/
+- Codeforces: https://codeforces.com/profile/tiktiki_arpa/
+- CodeChef: https://www.codechef.com/users/happy_kite_98
 
 
 <br/>
