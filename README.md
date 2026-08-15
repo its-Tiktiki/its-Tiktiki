@@ -87,7 +87,6 @@ class Me:
 - CodeChef      : https://www.codechef.com/users/happy_kite_98
 - Toph          : https://toph.co/u/itzpomodoro79
 
-
 <br/>
 
 ## GitHub Stats
