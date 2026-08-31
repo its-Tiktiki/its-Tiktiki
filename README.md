@@ -2,7 +2,7 @@
 
 <div align="center">
 
-
+<img src="floating-name.svg" alt="floating name"/>
 
 <br/>
 
