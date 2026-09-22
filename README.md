@@ -10,16 +10,17 @@
 
 <br/>
 
-![](https://img.shields.io/badge/-Python-0e0e1a?style=flat-square&logo=python&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-Flask-0e0e1a?style=flat-square&logo=flask&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-SQL-0e0e1a?style=flat-square&logo=postgresql&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-HTML%2FCSS-0e0e1a?style=flat-square&logo=html5&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-Selenium-0e0e1a?style=flat-square&logo=selenium&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-REST%20APIs-0e0e1a?style=flat-square&logo=fastapi&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-C-0e0e1a?style=flat-square&logo=c&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-C++-0e0e1a?style=flat-square&logo=cplusplus&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-Java-0e0e1a?style=flat-square&logo=java&logoColor=7c6ee0)
-![](https://img.shields.io/badge/-Git-0e0e1a?style=flat-square&logo=git&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-Python-0e0e1a?style=flat-square\&logo=python\&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-Flask-0e0e1a?style=flat-square\&logo=flask\&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-SQL-0e0e1a?style=flat-square\&logo=postgresql\&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-HTML%2FCSS-0e0e1a?style=flat-square\&logo=html5\&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-Selenium-0e0e1a?style=flat-square\&logo=selenium\&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-Beautiful%20Soup-0e0e1a?style=flat-square\&logo=python\&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-REST%20APIs-0e0e1a?style=flat-square\&logo=fastapi\&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-C-0e0e1a?style=flat-square\&logo=c\&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-C++-0e0e1a?style=flat-square\&logo=cplusplus\&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-Java-0e0e1a?style=flat-square\&logo=java\&logoColor=7c6ee0)
+![](https://img.shields.io/badge/-Git-0e0e1a?style=flat-square\&logo=git\&logoColor=7c6ee0)
 
 </div>
 
@@ -38,6 +39,7 @@ class Me:
         "SQL",
         "HTML/CSS",
         "Selenium",
+        "Beautiful Soup",
         "REST APIs"
     ]
 
@@ -55,37 +57,39 @@ class Me:
 
 ## Skills
 
-| Skill | What I use it for |
-|-------|--------------------|
-| Python | OOP, scripting, problem solving |
-| Flask | Basic web backends |
-| SQL & SQLite | Queries, CRUD, small projects |
-| HTML / CSS | Frontend fundamentals |
-| Selenium | Web automation & scraping |
-| REST APIs | Requests, JSON, integrations |
-| Java | Basics, OOP, practice projects |
-| C | Core programming concepts |
-| C++ DSA | Algorithms, data structures |
-| Git & GitHub | Version control, project hosting |
+| Skill          | What I use it for                 |
+| -------------- | --------------------------------- |
+| Python         | OOP, scripting, problem solving   |
+| Flask          | Basic web backends                |
+| SQL & SQLite   | Queries, CRUD, small projects     |
+| HTML / CSS     | Frontend fundamentals             |
+| Beautiful Soup | HTML parsing & web scraping       |
+| Selenium       | Web automation & dynamic scraping |
+| REST APIs      | Requests, JSON, integrations      |
+| Java           | Basics, OOP, practice projects    |
+| C              | Core programming concepts         |
+| C++ DSA        | Algorithms, data structures       |
+| Git & GitHub   | Version control, project hosting  |
 
 <br/>
 
 ## Currently
 
-- Cracking **C++ DSA** — arrays, recursion, trees, graphs
-- Exploring **Data Science** — NumPy, Pandas, Matplotlib
-- Building **Flask + SQLite** apps
-- Learning **Java Script**
+* Cracking **C++ DSA** — arrays, recursion, trees, graphs
+* Exploring **Data Science** — NumPy, Pandas, Matplotlib
+* Building **Flask + SQLite** apps
+* Learning **JavaScript**
+
 <br/>
 
 ## Coding Profiles
 
-- LeetCode       : https://leetcode.com/u/piece_of_peace/
-- HackerEarth    : https://www.hackerearth.com/@itzpomodoro79/
-- HackerRank     : https://www.hackerrank.com/profile/itzpomodoro79
-- CodeForces     : https://codeforces.com/profile/tiktiki_arpa/
-- CodeChef       : https://www.codechef.com/users/happy_kite_98
-- Toph           : https://toph.co/u/itzpomodoro79
+* LeetCode       : https://leetcode.com/u/piece_of_peace/
+* HackerEarth    : https://www.hackerearth.com/@itzpomodoro79/
+* HackerRank     : https://www.hackerrank.com/profile/itzpomodoro79
+* CodeForces     : https://codeforces.com/profile/tiktiki_arpa/
+* CodeChef       : https://www.codechef.com/users/happy_kite_98
+* Toph           : https://toph.co/u/itzpomodoro79
 
 <br/>
 
@@ -119,13 +123,12 @@ class Me:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0e1a?style=for-the-badge&logo=linkedin&logoColor=7c6ee0)](https://linkedin.com/in/aronno-rahman-699117419)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0e1a?style=for-the-badge\&logo=linkedin\&logoColor=7c6ee0)](https://linkedin.com/in/aronno-rahman-699117419)
 
-[![Email](https://img.shields.io/badge/Email-0e0e1a?style=for-the-badge&logo=gmail&logoColor=7c6ee0)](mailto:aronnorahman2006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0e0e1a?style=for-the-badge\&logo=gmail\&logoColor=7c6ee0)](mailto:aronnorahman2006@gmail.com)
 
 </div>
 
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7c6ee0&section=footer"/>
-
