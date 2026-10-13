@@ -46,7 +46,8 @@ class Me:
     learning = [
         "C++ DSA",
         "Machine Learning",
-        "Data Science"
+        "Data Science",
+        "Frontend Web Development"
     ]
 
     currently = "Cracking DSA + Building with Data"
