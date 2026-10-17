@@ -31,7 +31,7 @@
 ```python
 class Me:
     name = "Tiktiki"
-    role = "Student & Aspiring Data Scientist"
+    role = "Student & Aspiring Data Scientist and Web Developer"
 
     stack = [
         "Python",
