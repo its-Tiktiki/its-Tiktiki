@@ -34,13 +34,16 @@ class Me:
     role = "Student & Aspiring Data Scientist and Web Developer"
 
     stack = [
+        "C",
         "Python",
         "Flask",
         "SQL",
         "HTML/CSS",
         "Selenium",
         "Beautiful Soup",
-        "REST APIs"
+        "REST APIs",
+        "Java",
+        "Sqlite"
     ]
 
     learning = [
@@ -50,7 +53,7 @@ class Me:
         "Frontend Web Development"
     ]
 
-    currently = "Cracking DSA + Building with Data"
+    currently = "Cracking DSA + Building with Data + Building Websites"
     fun_fact = "My bugs have bugs."
 ```
 
