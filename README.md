@@ -97,6 +97,7 @@ class Me:
 
 <br/>
 
+
 ## GitHub Stats
 
 <p align="center">
@@ -106,10 +107,11 @@ class Me:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=its-Tiktiki&theme=transparent&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=its-Tiktiki&timezone=Asia%2FDhaka&theme=transparent&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" height="170"/>
 </p>
 
 <br/>
+
 
 ## Contribution Snake
 
