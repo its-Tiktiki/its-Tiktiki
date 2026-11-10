@@ -98,12 +98,13 @@ class Me:
 <br/>
 
 
+
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-Tiktiki&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=its-Tiktiki&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7" height="170"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-Tiktiki&layout=donut&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a855f7" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=its-Tiktiki&layout=donut&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a855f7" height="170"/>
 </p>
 
 <p align="center">
@@ -111,6 +112,7 @@ class Me:
 </p>
 
 <br/>
+
 
 
 ## Contribution Snake
