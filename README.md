@@ -113,7 +113,11 @@ class Me:
 
 <br/>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=its-Tiktiki&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" alt="Profile Views" />
+</p>
 
+<br/>
 
 ## Contribution Snake
 
