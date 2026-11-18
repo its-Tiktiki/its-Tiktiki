@@ -114,7 +114,9 @@ class Me:
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-Tiktiki&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=its-Tiktiki&label=&color=0d1117&style=flat-square" alt="Profile views" />
+  <br/>
+  <sub>Thanks for stopping by ✦</sub>
 </p>
 
 <br/>
