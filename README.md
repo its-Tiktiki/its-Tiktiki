@@ -48,7 +48,6 @@ class Me:
 
     learning = [
         "C++ DSA",
-        "Machine Learning",
         "Data Science",
         "Frontend Web Development"
     ]
